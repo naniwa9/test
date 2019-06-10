@@ -6,5 +6,8 @@ using namespace std;
 
 
 int main(){
-  cout<<"ctm pegg";
+
+  cout<<"Gaaaaaaaaaaaaa";
+  cout<<" :v";
+
 }
